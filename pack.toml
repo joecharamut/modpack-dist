@@ -1,0 +1,15 @@
+name = "Modpack"
+author = "Joe"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bab86bea7a7d83c1b5a0272dc3b1a7ad41b0d682ae99eff522a58fdc9a2820c5"
+
+[versions]
+fabric = "0.12.0"
+minecraft = "1.17.1"
+
+[options]
+acceptable-game-versions = "1.17.1"
