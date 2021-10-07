@@ -241,6 +241,11 @@ hash = "1e6b1323ba49f87c2d164024791ac948bca8d9c164c1392b15711dea8bd18368"
 metafile = true
 
 [[files]]
+file = "mods/minimotd-fabric.toml"
+hash = "b6d95a4bcc7b71a08d339b8f8425cdacfbfa6e56862129f64805dff900d9e40e"
+metafile = true
+
+[[files]]
 file = "mods/mo-glass.toml"
 hash = "3149846569746a77f9954aa6610ec639d9ed825c774def43d7743f96b8fd67bf"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.toml"
 hash = "2590b16fc2d23dc33941f319f518303de6e8078e95112acefeed10c02a53d687"
+metafile = true
+
+[[files]]
+file = "mods/textile-backup.toml"
+hash = "748328d922b71b345a5d3b4b427d08238c0c1a35a469494361b268923c7ef6f0"
 metafile = true
 
 [[files]]

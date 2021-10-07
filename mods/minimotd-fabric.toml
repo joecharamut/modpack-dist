@@ -1,0 +1,14 @@
+name = "MiniMOTD"
+filename = "minimotd-fabric-mc1.17.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3421/758/minimotd-fabric-mc1.17.1-2.0.4.jar"
+hash-format = "murmur2"
+hash = "3647059586"
+
+[update]
+[update.curseforge]
+file-id = 3421758
+project-id = 399892
+release-channel = "beta"
