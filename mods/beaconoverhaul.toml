@@ -1,0 +1,14 @@
+name = "Beacon Overhaul"
+filename = "BeaconOverhaul-1.4.2+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3476/553/BeaconOverhaul-1.4.2+1.17.jar"
+hash-format = "murmur2"
+hash = "3237846157"
+
+[update]
+[update.curseforge]
+file-id = 3476553
+project-id = 430382
+release-channel = "beta"

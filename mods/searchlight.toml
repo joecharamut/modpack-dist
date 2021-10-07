@@ -1,0 +1,14 @@
+name = "Searchlight (& Wall Lights) (Fabric)"
+filename = "searchlight-1.17-fabric-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3426/891/searchlight-1.17-fabric-1.1.3.jar"
+hash-format = "murmur2"
+hash = "1358141289"
+
+[update]
+[update.curseforge]
+file-id = 3426891
+project-id = 496793
+release-channel = "beta"

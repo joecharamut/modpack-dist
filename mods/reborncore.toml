@@ -1,0 +1,14 @@
+name = "Reborn Core"
+filename = "RebornCore-5.0.8-beta+build.111.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3461/951/RebornCore-5.0.8-beta+build.111.jar"
+hash-format = "murmur2"
+hash = "1860469079"
+
+[update]
+[update.curseforge]
+file-id = 3461951
+project-id = 237903
+release-channel = "beta"

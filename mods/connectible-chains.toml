@@ -1,0 +1,14 @@
+name = "Connectible Chains"
+filename = "connectiblechains-1.17.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3479/935/connectiblechains-1.17.1-1.2.3.jar"
+hash-format = "murmur2"
+hash = "1060979181"
+
+[update]
+[update.curseforge]
+file-id = 3479935
+project-id = 415681
+release-channel = "beta"

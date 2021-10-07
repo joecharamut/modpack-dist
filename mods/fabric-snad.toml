@@ -1,0 +1,14 @@
+name = "[Fabric] Snad"
+filename = "snad-1.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3482/549/snad-1.1.0-fabric.jar"
+hash-format = "murmur2"
+hash = "1273383401"
+
+[update]
+[update.curseforge]
+file-id = 3482549
+project-id = 492259
+release-channel = "beta"

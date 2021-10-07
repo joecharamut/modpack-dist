@@ -1,0 +1,14 @@
+name = "Simple Angel Ring"
+filename = "simpleangelring-2.1.0+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3441/939/simpleangelring-2.1.0+1.17.jar"
+hash-format = "murmur2"
+hash = "4054732564"
+
+[update]
+[update.curseforge]
+file-id = 3441939
+project-id = 434708
+release-channel = "beta"

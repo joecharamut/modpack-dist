@@ -3,4 +3,5 @@
 .gitignore
 README.md
 index.html
-
+modlist.html
+*.zip

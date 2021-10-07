@@ -1,0 +1,14 @@
+name = "Scaffolding Drops Nearby (Fabric)"
+filename = "scaffoldingdropsnearby-fabric_1.17.x-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3462/638/scaffoldingdropsnearby-fabric_1.17.x-1.5.jar"
+hash-format = "murmur2"
+hash = "3567776689"
+
+[update]
+[update.curseforge]
+file-id = 3462638
+project-id = 528272
+release-channel = "beta"

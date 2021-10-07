@@ -1,0 +1,14 @@
+name = "Minecraft Transit Railway"
+filename = "MTR-1.17-3.0.0-beta-8-prerelease-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3466/596/MTR-1.17-3.0.0-beta-8-prerelease-1.jar"
+hash-format = "murmur2"
+hash = "1963918578"
+
+[update]
+[update.curseforge]
+file-id = 3466596
+project-id = 266707
+release-channel = "beta"

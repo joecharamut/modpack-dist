@@ -1,0 +1,14 @@
+name = "Storage Recursion"
+filename = "storagerecursion-1.17.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3431/390/storagerecursion-1.17.1-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2131603020"
+
+[update]
+[update.curseforge]
+file-id = 3431390
+project-id = 506657
+release-channel = "beta"

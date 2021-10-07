@@ -1,0 +1,14 @@
+name = "Forgotten Recipes - Sculk Sensor, Bundle, Leather and Powder Snow Recipe"
+filename = "forgottenrecipes-fabric-1.17.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3454/267/forgottenrecipes-fabric-1.17.1-1.0.3.jar"
+hash-format = "murmur2"
+hash = "3543297790"
+
+[update]
+[update.curseforge]
+file-id = 3454267
+project-id = 496392
+release-channel = "beta"

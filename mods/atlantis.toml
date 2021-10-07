@@ -1,0 +1,14 @@
+name = "Atlantis"
+filename = "atlantis-2021.7.18-1.17-1.9.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/243/atlantis-2021.7.18-1.17-1.9.0-fabric.jar"
+hash-format = "murmur2"
+hash = "1227694585"
+
+[update]
+[update.curseforge]
+file-id = 3393243
+project-id = 355418
+release-channel = "beta"

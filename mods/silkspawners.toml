@@ -1,0 +1,14 @@
+name = "SilkSpawners"
+filename = "wraith-silkspawners-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/181/wraith-silkspawners-1.0.2.jar"
+hash-format = "murmur2"
+hash = "2061790839"
+
+[update]
+[update.curseforge]
+file-id = 3351181
+project-id = 410896
+release-channel = "beta"
