@@ -206,6 +206,11 @@ hash = "d97b4fd45d5887049ea77b8d6668130e3f250af574c9a35f2905d6ebe2b3f0c8"
 metafile = true
 
 [[files]]
+file = "mods/jline-for-minecraft-dedicated-server.toml"
+hash = "3712e2f781c0a5c5e7db4d57ad48a8ad652fedbaa53ba3dd67f949f229a319f8"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "23138a27526a640e5cd3aa7bc4803e99f9a82a4fb550683c1744277a1b14886d"
 metafile = true
