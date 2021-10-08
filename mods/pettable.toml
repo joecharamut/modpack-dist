@@ -1,0 +1,14 @@
+name = "Pettable"
+filename = "pettable-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3350/741/pettable-1.2.0.jar"
+hash-format = "murmur2"
+hash = "1960017787"
+
+[update]
+[update.curseforge]
+file-id = 3350741
+project-id = 468991
+release-channel = "beta"

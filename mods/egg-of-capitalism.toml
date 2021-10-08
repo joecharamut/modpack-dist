@@ -1,0 +1,14 @@
+name = "Egg Of Capitalism"
+filename = "eggofcapitalism-mc1.17.x-2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/40/eggofcapitalism-mc1.17.x-2.1.jar"
+hash-format = "murmur2"
+hash = "3245668909"
+
+[update]
+[update.curseforge]
+file-id = 3348040
+project-id = 490007
+release-channel = "beta"

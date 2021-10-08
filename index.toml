@@ -6,11 +6,6 @@ hash = "0f8f135e5ded3fa1c6016107e5cd81f7e9e796d8352aececdca45ee16970262f"
 metafile = true
 
 [[files]]
-file = "mods/advancements-enlarger.toml"
-hash = "22612ce0f8311ed3b207ef29751b32cc4c01d9ae8eeaf08fddbd6d1b7ea2b920"
-metafile = true
-
-[[files]]
 file = "mods/adventurez.toml"
 hash = "18e2a74988ccfd8f1feb5f1851588228083d3bff7ad6a26c28c92725a2bb0f1f"
 metafile = true
@@ -51,8 +46,13 @@ hash = "322f3ce72f60fab7b41274bd5608b85d3918a1362983f67a19a8a7295ce64751"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads-fabric.toml"
+hash = "a05397f3146f87e302d7c36b6982393c4ac688453b30ccf9d24acb6393ef24d6"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment.toml"
-hash = "945b761380778baaf073732d274a52ceca7ba946c9539ea9e1ba9ce0772c550b"
+hash = "0180d0e5f90a37392fe6caf4c11d3f177889136eba91f8366cbe51da5b633918"
 metafile = true
 
 [[files]]
@@ -63,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/building-wands.toml"
 hash = "b1bf60aaa74825dc09b3cd9fdd7f979567ea0cb395ba3447cdc840136095373b"
+metafile = true
+
+[[files]]
+file = "mods/candlestick.toml"
+hash = "456384e2c95d708a60d9af2cd0c6c483d3c749ec515299dbe18737fdc5a2c70d"
 metafile = true
 
 [[files]]
@@ -131,6 +136,11 @@ hash = "df88735416331ad74448869394ef922b629075db0b0e8f3aeaf9c9b5f6f46965"
 metafile = true
 
 [[files]]
+file = "mods/dawn.toml"
+hash = "15dd94aa36c0948ef16a093c7426ca72ec3eede40d28679c8ef7293e1266a76d"
+metafile = true
+
+[[files]]
 file = "mods/diggus-maximus.toml"
 hash = "36cbc515829eb81e386735a4aa558f05e90efa5a7b2a427770295e3737ae4063"
 metafile = true
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/drink-beer-fabric.toml"
 hash = "d770ce3373991e8e9579248e2cc53715b97f696f642366584854f8dd9bf12432"
+metafile = true
+
+[[files]]
+file = "mods/egg-of-capitalism.toml"
+hash = "7145f05d69f8dbabf4bd5e36e4d729eec37bc1417ebd0b195bca0a5c8fc0b678"
 metafile = true
 
 [[files]]
@@ -327,12 +342,22 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.toml"
-hash = "6b235318f9ff03a31e4c929c246d07029e7c4b5588456a121ad6ae7b018b9423"
+hash = "1a25a9c9c921890b1f96eb91e6fbd7be8c92ae8c3d900557105799fe101ba8e2"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
 hash = "535750efa01f1ff2baff03b0c98e99682e4838d2b86609ef965136558ccf2947"
+metafile = true
+
+[[files]]
+file = "mods/pettable.toml"
+hash = "2146dfd3ff895a208323f34c216d0c3e6f0a75256ae5eb2f543476acf87d80b7"
+metafile = true
+
+[[files]]
+file = "mods/phonos.toml"
+hash = "cd7d026dddbbb06f7cf10da27bb241166fa6045b171db433e8cddb3a86e7e778"
 metafile = true
 
 [[files]]
@@ -343,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.toml"
 hash = "77f7fe34bcb15edb26f0caaece32f0f892129ae9b17ed74eceac16a351309679"
+metafile = true
+
+[[files]]
+file = "mods/promenade.toml"
+hash = "c446023ded3e058b9f5c065da82770c0d753d189bb388f3f55d0ab7767b31f6e"
 metafile = true
 
 [[files]]
@@ -398,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/simpletransport-for-fabric.toml"
 hash = "9c6d663a016dd2b6d5cadbf2ce72b86d099135316d5f13719323756f31428af3"
+metafile = true
+
+[[files]]
+file = "mods/slime-sling.toml"
+hash = "2143c184468ba2790b393c690b61f2c3dc90943aa7b10b96816249416ce3c53f"
 metafile = true
 
 [[files]]
@@ -458,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/valleycraft.toml"
 hash = "cac393e7bd04798ff9b79f3e498146df0c98e751ee354e648cde3de555c6d654"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-fabric.toml"
+hash = "3a72ded791f742c9f39cfcbc7c3b19af4bf171fdf26ff2b7ed8fab8c2b3fa1ea"
 metafile = true
 
 [[files]]

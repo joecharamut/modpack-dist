@@ -1,0 +1,14 @@
+name = "Candlestick"
+filename = "Candlestick-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3382/605/Candlestick-1.1.1.jar"
+hash-format = "murmur2"
+hash = "354901266"
+
+[update]
+[update.curseforge]
+file-id = 3382605
+project-id = 500577
+release-channel = "beta"

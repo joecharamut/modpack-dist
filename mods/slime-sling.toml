@@ -1,0 +1,14 @@
+name = "Slime Sling"
+filename = "SlimeSling-1.17-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3329/501/SlimeSling-1.17-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3516613977"
+
+[update]
+[update.curseforge]
+file-id = 3329501
+project-id = 436404
+release-channel = "beta"
