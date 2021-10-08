@@ -1,0 +1,14 @@
+name = "Time in a Bottle (Fabric)"
+filename = "time-in-a-bottle-1.6-mc1.17-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3402/465/time-in-a-bottle-1.6-mc1.17-fabric.jar"
+hash-format = "murmur2"
+hash = "823237184"
+
+[update]
+[update.curseforge]
+file-id = 3402465
+project-id = 440243
+release-channel = "beta"

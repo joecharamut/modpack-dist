@@ -81,6 +81,11 @@ hash = "3cf707c48658551283b6534df565f5bb45b3cb32e486550a16282b9061d179c0"
 metafile = true
 
 [[files]]
+file = "mods/charm.toml"
+hash = "802712413b38d1cadc18660bc5c219d4c2446f1fa676ffbffc7b0143a800fc41"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
@@ -196,6 +201,16 @@ hash = "2ed176d03b8584618e948ef8a3be2927bbd6ce57382d01f1761c54431e11a6de"
 metafile = true
 
 [[files]]
+file = "mods/i-know-what-im-doing.toml"
+hash = "213fa68f62320bbca611bd060b8330ed6d373b3f6b9e5d4ae98a81c990024997"
+metafile = true
+
+[[files]]
+file = "mods/identity.toml"
+hash = "3968ce0410543cac051f534853e09aee9d1438c7d391384e3da95e0a059e18ad"
+metafile = true
+
+[[files]]
 file = "mods/illuminations.toml"
 hash = "7691f8c373d711c18ae8414a1b3ec1725122776b1fd3e7efb1c7c7c8c8ed0dd3"
 metafile = true
@@ -301,6 +316,11 @@ hash = "53b179b2f9a6c7b6c322443c304bbf0828eaca5d193e8e95ecc24451413f561b"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.toml"
+hash = "af0d6f7ccb0f63926ab971084212bddfe5b3f37259d3e2cf7a485232ea019f37"
+metafile = true
+
+[[files]]
 file = "mods/pal.toml"
 hash = "f3feecbf43e559311326c536110c4e9d7d5d768b4a0ebbc5134bcb68224f9fd2"
 metafile = true
@@ -316,8 +336,18 @@ hash = "535750efa01f1ff2baff03b0c98e99682e4838d2b86609ef965136558ccf2947"
 metafile = true
 
 [[files]]
+file = "mods/plant-in-a-jar.toml"
+hash = "0053356ce1b2658165828b02f45b95d858050bc58fff6fa666a43aa2834ab05f"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-fabric.toml"
 hash = "77f7fe34bcb15edb26f0caaece32f0f892129ae9b17ed74eceac16a351309679"
+metafile = true
+
+[[files]]
+file = "mods/real-infinity-bow-allow-inf-mending.toml"
+hash = "32a069efa333f502d02060cb3cc80e2a521781fcb981ad751d2dc3657eed79b4"
 metafile = true
 
 [[files]]
@@ -393,6 +423,16 @@ metafile = true
 [[files]]
 file = "mods/textile-backup.toml"
 hash = "748328d922b71b345a5d3b4b427d08238c0c1a35a469494361b268923c7ef6f0"
+metafile = true
+
+[[files]]
+file = "mods/thinking-with-portatos.toml"
+hash = "3b40be9b4e79e3dd602d404c1b99d7e5b3e745a0e1cf49076af1214edda339d1"
+metafile = true
+
+[[files]]
+file = "mods/time-in-a-bottle.toml"
+hash = "7c1a3835afbf03dd5854c76c13d8c05c57a5288b120200821317784131795f1c"
 metafile = true
 
 [[files]]

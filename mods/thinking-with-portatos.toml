@@ -1,0 +1,14 @@
+name = "Thinking With Portatos"
+filename = "thinkingwithportatos-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3360/983/thinkingwithportatos-1.0.4.jar"
+hash-format = "murmur2"
+hash = "801819353"
+
+[update]
+[update.curseforge]
+file-id = 3360983
+project-id = 460490
+release-channel = "beta"

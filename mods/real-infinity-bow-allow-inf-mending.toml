@@ -1,0 +1,14 @@
+name = "Real Infinity Bow (Allow Inf+Mending)"
+filename = "Real-Inf-Bow-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3369/478/Real-Inf-Bow-1.1.0.jar"
+hash-format = "murmur2"
+hash = "4155073451"
+
+[update]
+[update.curseforge]
+file-id = 3369478
+project-id = 430105
+release-channel = "beta"
