@@ -236,6 +236,11 @@ hash = "d97b4fd45d5887049ea77b8d6668130e3f250af574c9a35f2905d6ebe2b3f0c8"
 metafile = true
 
 [[files]]
+file = "mods/industrial-revolution.toml"
+hash = "c10a4fd6a52a3718ce0e6f88a9febd8f331eee792bf3a7d0836e1cb14b857c29"
+metafile = true
+
+[[files]]
 file = "mods/jline-for-minecraft-dedicated-server.toml"
 hash = "3712e2f781c0a5c5e7db4d57ad48a8ad652fedbaa53ba3dd67f949f229a319f8"
 metafile = true
