@@ -1,7 +1,11 @@
 .git/**
 .gitattributes
 .gitignore
+
+env/**
+modlist.html
+modlist.py
+
 README.md
 index.html
-modlist.html
 *.zip
