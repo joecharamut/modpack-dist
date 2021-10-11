@@ -1,0 +1,8 @@
+{
+	"chargeEnabled": true,
+	"chargeMax": 2400,
+	"chargeRegenTicks": 4,
+	"chargeRegenWhenFlying": "NEVER",
+	"chargeRegenBoostedByBeacon": true,
+	"chargeRegenTicksBoosted": 2
+}

@@ -1,0 +1,5 @@
+configVersion = 0
+minCrabSpawnHeight = 75
+maxCrabSpawnHeight = 85
+calciteAcceleration = 0.1
+calciteThreshold = 1.8

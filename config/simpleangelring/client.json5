@@ -1,0 +1,4 @@
+{
+	"warnOnLowCharge": true,
+	"chargeWarnThreshold": 10
+}

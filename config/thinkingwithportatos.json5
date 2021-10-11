@@ -1,0 +1,11 @@
+{
+	"enabled": {
+		"enableLongFallBoots": true,
+		"enableGels": true,
+		"enablePortal2Blocks": true
+	},
+	"numbersblock": {
+		"maxBridgeLength": 127
+	},
+	"numbers": { }
+}

@@ -1,6 +1,462 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Adorn.json5"
+hash = "1105fefd4c5ff9505a9fc81c7bfd95497df4e0b63a1e3bdf6906d8b7207ea0d5"
+
+[[files]]
+file = "config/AqMods/caracal.config"
+hash = "c8c80a872cccd671d8dff25f3e7adab05d1bc5660ee8e408217d47cf250fede4"
+
+[[files]]
+file = "config/GiveMeHats/config.acfg"
+hash = "8723883f259f7e30735b7d74c18f8201e0cc317dfba4c1635b7cbb8989d9a921"
+
+[[files]]
+file = "config/adventurez.json5"
+hash = "7f79e40cc5c2382df1690eebf9f242898bb6b9014faa915ec24432d55eaae9d6"
+
+[[files]]
+file = "config/agape/dimwarp.cfg"
+hash = "feb74ae788113896f3200c3268b60b6773833a806d1912f1c0e4b5ccb8c9365d"
+
+[[files]]
+file = "config/agape/planets_v05.cfg"
+hash = "be4fbd69126153af5e302d68cd8d035dd7cd96160bf1045144d7c4a0be155ac7"
+
+[[files]]
+file = "config/agape/skybox_z2.cfg"
+hash = "5a4086c19c233abbae543887c4424732f9aa4a036982be1d28bc35b0b8b67733"
+
+[[files]]
+file = "config/agape/swapper_03.cfg"
+hash = "d22285a09f0158e57430718fdd05d5ba897cb6ec5b0ebcadb593cf8ca06864a5"
+
+[[files]]
+file = "config/antiqueatlas.json5"
+hash = "c1fe0f80c881c470088ad8ea378392c7eeae0b37bc0721b32998f4fd5e471ac1"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
+
+[[files]]
+file = "config/atlantis/general.toml"
+hash = "857fcc2a08a647fbf53a0d560ecbbad917f27c3a755ddad571bd779d01f1f176"
+
+[[files]]
+file = "config/bclib/recipes.json"
+hash = "9eba770309030582368a62bbfd4a158456fb4cf75434d6eb7e0175e9bc0fc977"
+
+[[files]]
+file = "config/betterend/biomes.json"
+hash = "ec3803adf0796784fdb52edf31cfe38654e5bfb9099b68ace2e26800404a5a3e"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "c1f6a094de9288284bde224102a1a811895433eddf4e0693237c41670a132d1a"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "9fe05edf2b6cfaa5573d1dc6debf01181a663f0ffda407c8b3f05d2ef87e56eb"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "96dc5b16154f988ec3be988be58bef9a6785efb860baf9753727876b8f548246"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "f690c13c1fde6d18871a6b94557ea32aa211022c1220f85f213d1828965c3391"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betterend/recipes.json"
+hash = "94728703ab03827f3218a5111f63d746ed9dfac8cc4ac69630cbddbc1e46e2e2"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "377e4410e7d8bb0171ff76023d07196da742c2b40352f7273fefe769ff1fe8da"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "31134c6c7cccf937fe3b0e2361801b60e26aa4141abe8bcb62ccd22609cf7826"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "8c10cbd5e4f81fb6967393dd3739879bac091ccf52c028953a6d7ff7017537cd"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "afe6b6a6af5f9c38dedb4fa952078cab8b554b225cbc07a8328bd0e2a52c00eb"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "425bba74f35117650feefb028fe8551a9edb2ecc919d91b35e0c6d84067e552e"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "6c15aaa04bfbc8886c8326a52d8b0621571ce33fbd032f9f3584ee513730ab4e"
+
+[[files]]
+file = "config/betternether/recipes.json"
+hash = "3ed7709543eccf0e0af6ca947bebf9c511ac171e63486e4f0daa369165b14dc9"
+
+[[files]]
+file = "config/bewitchment.json"
+hash = "2aca3639c4364f05f257bd04571d89e23fb8ae92f95cf50a8670d8fd1ae2b30e"
+
+[[files]]
+file = "config/carrier.json"
+hash = "41c90b84a9c7d44d250fefd942d476ffe2d3369192901c68b5d5665685f5b93d"
+
+[[files]]
+file = "config/charm.toml"
+hash = "a30faba313d0e8d34f6b7fca17ebf356d6b9cd85d3c4274577cc35e4283f5ca6"
+
+[[files]]
+file = "config/comforts.json5"
+hash = "30a6aec14fb01da0b447cb235209e1ba5665bc82b09d6648689dcfa47650e28c"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "20772df2e321ec660a746f6d1a11395b62679c6301c84bacacb2f51ab02a9db1"
+
+[[files]]
+file = "config/connectiblechains.toml"
+hash = "05976077b1a7a24978c34f8b24e706c4535081fdf813bc15f5abfa7bac1a5830"
+
+[[files]]
+file = "config/croptopia/options.json"
+hash = "fe40f67a04f4097415c124abdfec951589f0e6ad60f2791d068438ccf2ff8322"
+
+[[files]]
+file = "config/dawn/debug.json"
+hash = "624ab4715494fc597d73242fcd57bcbf1fbac006d378ff85545cbd20830dd002"
+
+[[files]]
+file = "config/dawn/features.json"
+hash = "741cf283f9798d6ebca0d735c336071e7c13777942e1766bb07230a64bd4cfc5"
+
+[[files]]
+file = "config/diggusmaximus/blacklist.json5"
+hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
+
+[[files]]
+file = "config/diggusmaximus/config.json5"
+hash = "15cb1242739eb085992b2c21eef6d36a48010f27b9b726da59c0dd63d47950bb"
+
+[[files]]
+file = "config/diggusmaximus/excavatingshapes.json5"
+hash = "05de273d15d9a402fef2eb692ae3c866614ea0c774aca784ce052ec8b67cbbe1"
+
+[[files]]
+file = "config/diggusmaximus/grouping.json5"
+hash = "ef4721e167e20865ec1b660e75471a86364e6cc653404baefd1d66938d8bb900"
+
+[[files]]
+file = "config/dragonloot.json5"
+hash = "56fc3644d40638a9bd9e4a8d74e934aba4d93d6c191ec97df582c75c12b80dec"
+
+[[files]]
+file = "config/dungeons_arise.json5"
+hash = "c39a219669f2abd790174b70c7574ddd4a3870cfb76218a61283bd136467a78b"
+
+[[files]]
+file = "config/enchant_giver/config.json"
+hash = "7682c42f751b0a1c7ea4b9b939eb1ecbdcd637fd3b3f308ff83be4fcb3f9b6ca"
+
+[[files]]
+file = "config/enchant_giver/enchants.json"
+hash = "7fd5ef25530ad536766b0eeee0565d42034346dd4ef65f5016f3348bba00661a"
+
+[[files]]
+file = "config/enchant_giver/example.yaml"
+hash = "e267c7612c2517b0e71c0c956b69d380615f09b53c2855b46242933c5c1357bf"
+
+[[files]]
+file = "config/expandedstorage.json"
+hash = "8587f97a85e14ffab6233b7d6efed398935b82dbe32e71a79ff7d45dd130d6e7"
+
+[[files]]
+file = "config/explorerscompass.json"
+hash = "ba233c95edf3ff5c91569e4ec2ca6ba0dd85a8f3e0614d18fbc08dbe99350865"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "0197b928541a3a6c649722e2eb6822744c36ae6749e3b929d5c2945a8d8cb9d6"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "e252e0ec8ce9bc7c8b60c2af88ff26aa70dd951128224edaa8d555e3d82f82ae"
+
+[[files]]
+file = "config/grindenchantments.json"
+hash = "ce6e482cc8b8bc59b268c406beb4ffd818a6347bb86496c2c7f69fb213336b31"
+
+[[files]]
+file = "config/hookshot.json5"
+hash = "a51633be8b8bf8cb5a1684ae4645b704141939532a43213d91cf96683396157e"
+
+[[files]]
+file = "config/horsestatsvanilla.json5"
+hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
+
+[[files]]
+file = "config/identity.json5"
+hash = "4474905da0a7bd71b7275e36fd8cd05b8756c3cc67a5b6fcfe832576984a9c0a"
+
+[[files]]
+file = "config/illuminations.properties"
+hash = "4710a57c7641193e8f2bcaf5b0a0539018a75580f4271032112579f6331fa020"
+
+[[files]]
+file = "config/indrev/cables.json"
+hash = "9183a2eadef32624ee9a8ed193ac1b61d3b2ce0511f6e0c182f3a2d9bb170a83"
+
+[[files]]
+file = "config/indrev/generators.json"
+hash = "7e76e3fd7ff40190b24aa76efdea7afc315a87e426ac8d7ce0e0f42a1f4e52c6"
+
+[[files]]
+file = "config/indrev/hud.json"
+hash = "273c14e99b9b938007693c86b53cd7d697080b38705b1962cfe38104656bcf2d"
+
+[[files]]
+file = "config/indrev/machines.json"
+hash = "fc6a35134ae84fcc9f0fd604dcadcce56bd0339caf726823d5f39905c40620b9"
+
+[[files]]
+file = "config/indrev/oregen.json"
+hash = "24967e348a997f897f49757afec9ccdb4c0ae972af80e7cb20ad8a6719eed9ac"
+
+[[files]]
+file = "config/indrev/upgrades.json"
+hash = "780b8fac0b4c91a377cc005bae8850bcf1c00bd6a03f18eb6b38be5a615112d6"
+
+[[files]]
+file = "config/libcd.json"
+hash = "688d62f77d1e99697e4a3ce6f5d9c833d024472726da4e3c480b0e2281aea70a"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/lightoverlay.properties"
+hash = "1bdf13bcabb961ca4bc2e33c60d57e58d04d03cfce531265b6bb4c08a30b2da2"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/magna.json"
+hash = "515abf30318f95c74ec58d9f93074f9aa9a78ac6975a7e9dbc4acec890760fa0"
+
+[[files]]
+file = "config/minecraft_dungeon_weapons/attack_speed_config.json5"
+hash = "1b9c5a00064d85fa1551436239199252a238b0137cbf7255906848511bc72109"
+
+[[files]]
+file = "config/minecraft_dungeon_weapons/config.json"
+hash = "498868c59fe43f54e8f235b5f394ffd2c112981c74e98fa74780d83817515ed4"
+
+[[files]]
+file = "config/minecraft_dungeon_weapons/damage_config.json5"
+hash = "059274c25229d90217b639608f13210e7f3b15acedb27b2d5dd3fc258a8451fa"
+
+[[files]]
+file = "config/minecraft_dungeon_weapons/draw_speed_config.json5"
+hash = "d9059f27b759081f5999e3a8b319c8f5e5e50531bf1faa62f987c1f8684e5e33"
+
+[[files]]
+file = "config/minecraft_dungeon_weapons/enchants_config.json5"
+hash = "7cb10cf75f0dfa6f7d1815563438eb3124e3265a454034dd1e7f672f447440e2"
+
+[[files]]
+file = "config/minecraft_dungeon_weapons/loot_config.json5"
+hash = "cf2b5f942999a500674661273d5e600b5b61ac6c2287942cd446c9f0af4d1623"
+
+[[files]]
+file = "config/minecraft_dungeon_weapons/materials_config.json5"
+hash = "34fcd39db1201eb9cf899172739cc1c9300f725af1209e9670c1e2a11d6e0733"
+
+[[files]]
+file = "config/minecraft_dungeon_weapons/range_config.json5"
+hash = "39e2839892fd15e18150888c296724f4a1ca8c542c3e5076b1a759b28f55019a"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "e21442832f1b2cb80377724ad80f8323898aca23a45d839c5c84ef4d9f947d27"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "47350cf8754bda50b22b5fc57eb9490e78fbff356dbdf51899374dcdbf8e5d20"
+
+[[files]]
+file = "config/mtr.json"
+hash = "397215a833479505983177b59d505ea16bc4a9a1ea241088ca78fe520f0eb14e"
+
+[[files]]
+file = "config/mythicmetals.json5"
+hash = "ea288397f714cc8e96de1a01d2fb739ede4c5db3122fa0007543d1c9b2ea4ffb"
+
+[[files]]
+file = "config/naturescompass.json"
+hash = "5a72f3b6765a0f15d33071a38cb246a7c29ce0af59552ef91ea3b20393f65a68"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "c773bb742d73e9e73142f293844f9b857b5fcddc3c8efe42879b0212bed9f320"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
+
+[[files]]
+file = "config/nyfsquivers.json"
+hash = "1bf14b26446c80990ba9f8f4aa09e1bf00d5541ff0ebeb82d5269393b64bb1a0"
+
+[[files]]
+file = "config/okzoomer.json5"
+hash = "4920657ed4da6f4de675fb3ea393bf360a02d3b1e15a947449964192f105b3cb"
+
+[[files]]
+file = "config/patchouli.json5"
+hash = "6b845c2c029ecd7aa8805fd2dcb0d6cea009bd718617086f70b61f142694c6b0"
+
+[[files]]
+file = "config/pehkui/config.json"
+hash = "9e4f424c4bc74dbe47c01a792aa2dfaf39c144e57cce341cd5e66e3b43a3cd1b"
+
+[[files]]
+file = "config/pettable.json"
+hash = "a30a85542899c623d8134526e49d4bfc9e3cbf4341cf55b6541c99c0b6591cab"
+
+[[files]]
+file = "config/plantinajar.json"
+hash = "fc4659852d1a75390d35a1fd24d5716e7c27f1141f9013d85da3b9d3344ee7f7"
+
+[[files]]
+file = "config/powertaters/liltaterreloaded/ltr.properties"
+hash = "52a851cd7bab43d8d2480bff2e14c95151d077b8c6d510807a6e76493b628202"
+
+[[files]]
+file = "config/promenade/biomes.json"
+hash = "cb5167038511426b248ba1b714b3ea34889c7383f5b950aaa01a4338e28fef77"
+
+[[files]]
+file = "config/promenade/creatures.json"
+hash = "1743231f8f05ee72d929909858c73577bd342ba5e8c66a28d35b46e2713cec7a"
+
+[[files]]
+file = "config/promenade/features.json"
+hash = "30a5f52d59fe11d4a35c7b3b7b2b416a68b3e811826328112a8bf63aa89c4379"
+
+[[files]]
+file = "config/promenade/structures.json"
+hash = "49c0c681e8c6f5e54e11f632c035934a5f8654ca5d89dc3a3917b502c1418692"
+
+[[files]]
+file = "config/reborncore/misc.json"
+hash = "820f40848e6daeb5d9c1998f04082cc419865c84b968cbdcc6c2e39798bd1f71"
+
+[[files]]
+file = "config/redbits.json"
+hash = "86c87d2fa23f934c046e147e59ed1009b2e54d6813ef4f2f1bf388b10dee9415"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "4b711d7b6f96fc2774ad8a418101baf0e22436a0ca1d348a1e4f54a8adc814c2"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "e7907c2dfe097202282dabe93ca72b4468d0cffde62bf4e33e60ed04c50ee905"
+
+[[files]]
+file = "config/simpleangelring/client.json5"
+hash = "7275adc305fdac369b135f1968a58d90faf2c8b3af5c7eff81befe84ee018359"
+
+[[files]]
+file = "config/simpleangelring/server.json5"
+hash = "2150a569a2783758ad4d034f121d1ad896a0cd8e63ea7e49cadd211f4f696bdd"
+
+[[files]]
+file = "config/simplerharvest.json"
+hash = "3e8e57664e564edbbdc290dd61c32d4d44396cf5f9eafecfdc2a26dc1f7c89f8"
+
+[[files]]
+file = "config/snad_config.json"
+hash = "ee0894b91f29b8f9f3025ea2968e0ff5e7cb7f02510d0428844d4f19573c53dd"
+
+[[files]]
+file = "config/stoneholm.json5"
+hash = "37b1d0a019041a462081996a9d859a594dd57257fba96b67725b8fd59a1dec68"
+
+[[files]]
+file = "config/techreborn/generators.json"
+hash = "5a47ca4f6c1b645e672b4f5b66cc23bcd5dc3f0acdc31b7e9f5c9afc8ce801c3"
+
+[[files]]
+file = "config/techreborn/items.json"
+hash = "1dd83d9b2e974119445c372c0e409bb292287d38d2748d47404a0554d522afd5"
+
+[[files]]
+file = "config/techreborn/machines.json"
+hash = "72fe2c2789793624502883ea84d709ac44a5e43363f0a20fde9d644ec12bbe64"
+
+[[files]]
+file = "config/techreborn/misc.json"
+hash = "af7d9b65a67dffc64a88c58b30f0356835b7991fc3073aa4b9d79b2d85004440"
+
+[[files]]
+file = "config/techreborn/world.json"
+hash = "9cb633e2c8b765254e28d0b5d4e346913a435d56f39ea2fad4bb5dcb7c424d09"
+
+[[files]]
+file = "config/textile_backup.json5"
+hash = "45c96a1323ffc5fd640f0c721342d8b2547f58a8056f1bd9e296b7b8f879222f"
+
+[[files]]
+file = "config/thinkingwithportatos.json5"
+hash = "1ccd98edae3ffcc71e0eb0dd2d2ed6aca73a21d9eeef5e4e8187475cd7a21c03"
+
+[[files]]
+file = "config/time-in-a-bottle.json"
+hash = "4325bfeaff9f1926d49a072b8d75c4951431202003774baf709f66658440af9c"
+
+[[files]]
+file = "config/toms_storage.json"
+hash = "a29a4f6d013a36fc7f947cc6394200a942c0ce38dc736057d89726bdeb00fb56"
+
+[[files]]
+file = "config/traverse/biomes.json"
+hash = "9cc420fdc57f7f82e3f818b489c360cdeeea40b589e6fc2dfae3f5784f0b78c4"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "be157cb9b3023e4c81f6804ed126cb443b07cfb40ca2145ba70eeb49f06fdd1f"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "4e665f320e53fa8afb4adfd20eebaf3a93081ee9587274aee302e317280b6a27"
+
+[[files]]
+file = "config/wands.json"
+hash = "469cee2439442bad58dace64a0d4f6ecf635ce8e8b14735ed6abcdbc17821bd1"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "65d45f78cfdee696c04145a788364b5d6517808efa1f1a6d3a3e9d8d3fc042b2"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "0f8f135e5ded3fa1c6016107e5cd81f7e9e796d8352aececdca45ee16970262f"
 metafile = true
@@ -348,11 +804,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transit-railway.toml"
 hash = "1e6b1323ba49f87c2d164024791ac948bca8d9c164c1392b15711dea8bd18368"
-metafile = true
-
-[[files]]
-file = "mods/miners-horizon.toml"
-hash = "dd5a6e0c62bf4d215f903281e432ab7cdc43a225581dad56e6aeaf5d25834c14"
 metafile = true
 
 [[files]]
