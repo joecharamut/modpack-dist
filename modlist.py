@@ -17,8 +17,9 @@ class Modpack:
         
         self.mods = []
         for mod in self.index["files"]:
-            with open(Path(dir, mod["file"])) as f:
-                self.mods.append(toml.loads(f.read()))
+            if "metafile" in mod and mod["metafile"]:
+                with open(Path(dir, mod["file"])) as f:
+                    self.mods.append(toml.loads(f.read()))
         
         print(f"Loaded {len(self.mods)} mods")
 
