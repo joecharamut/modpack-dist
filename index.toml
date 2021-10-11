@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.toml"
-hash = "0180d0e5f90a37392fe6caf4c11d3f177889136eba91f8366cbe51da5b633918"
+hash = "46a2b7cb9be8138b31198bc3184d323bc75af7e3d830792ff1a6b92fcff1b339"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "3c5176c6c36c4fb8d97283dc07f91c400cc1ccd81836e298b7687dcd352282cb"
+hash = "8db6db22ea6ebfecd19b82e2b58ab48c4c2d0ffc0069370864cc5e1d23d28413"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/identity.toml"
-hash = "3968ce0410543cac051f534853e09aee9d1438c7d391384e3da95e0a059e18ad"
+hash = "0f300e1aefbe063d087e6d6004a5b64c34db97e14933254bc7341a3a15e8fa54"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-revolution.toml"
-hash = "c10a4fd6a52a3718ce0e6f88a9febd8f331eee792bf3a7d0836e1cb14b857c29"
+hash = "1a3864c69fbdbbdc3d31621a63ae084a4fb0fa6d848f3f7d8115dc9bb302d8eb"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdw.toml"
-hash = "3599372859281cf99abc3657123e441079a78b5a728a52770f511c9910259a4c"
+hash = "8c6989c338bf0aa3e3f53cfc0cbe07d2f99c48b5eebd0ac1306ab1c18b1e5391"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.toml"
-hash = "853085d94c036357bde02950c6d7d1bec136fda0302273bf2e20fda3a6b81d23"
+hash = "d2c4c09950c458cc8aaeab67d7754250e4acbb41b12e5aee01aaf58a4ef11fdc"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
+hash = "51bca8e486c7e30ff8b13980ea748fe7dc7b07cd789540b497748677d7fd9210"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.toml"
-hash = "2590b16fc2d23dc33941f319f518303de6e8078e95112acefeed10c02a53d687"
+hash = "41ceda8343d81fe1de880e0533a14e353723319cb123993e6829f9469f523ee4"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.toml"
-hash = "02d131567f5f5453738f30f91df9c269278eeb9bc8b1f14e201d72c9dc52bb6a"
+hash = "4461daf3d1c3af155921b4aa92b0cb46ff4a5fa54f90f0f20e248633e2b88615"
 metafile = true
 
 [[files]]
@@ -607,10 +607,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "6242f4ae0017232f0411b8df4a9f40b9362167d8504f66920a1da834fdd64adc"
+hash = "fbf7e6e450faa2f75cae4b2ad26228f68ef9133775eba9c7cbca634893250ad0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "f39df0ecfdeb5179808c567d1eb91991853c5fd7c5ce6ed104dfff439f5d8883"
+hash = "599882f78a769a802a28685acb15962054e1071acee22c3781c8cd4630b25a2b"
 metafile = true

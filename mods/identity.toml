@@ -1,14 +1,14 @@
 name = "Identity"
-filename = "identity-1.14.2-beta-1.17.jar"
+filename = "identity-1.15.0-1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3363/974/identity-1.14.2-beta-1.17.jar"
+url = "https://edge.forgecdn.net/files/3486/402/identity-1.15.0-1.17.1.jar"
 hash-format = "murmur2"
-hash = "2658534520"
+hash = "3620216203"
 
 [update]
 [update.curseforge]
-file-id = 3363974
+file-id = 3486402
 project-id = 391390
 release-channel = "beta"
