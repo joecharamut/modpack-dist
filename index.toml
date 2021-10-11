@@ -457,10 +457,6 @@ file = "config/waystones/config.json"
 hash = "65d45f78cfdee696c04145a788364b5d6517808efa1f1a6d3a3e9d8d3fc042b2"
 
 [[files]]
-file = "icon.png"
-hash = "8d4d6cb29533676487f8130ec8df6615ee90bdb6b5121037562a93c8d487e284"
-
-[[files]]
 file = "mods/adorn.toml"
 hash = "0f8f135e5ded3fa1c6016107e5cd81f7e9e796d8352aececdca45ee16970262f"
 metafile = true
