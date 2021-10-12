@@ -849,6 +849,11 @@ hash = "af0d6f7ccb0f63926ab971084212bddfe5b3f37259d3e2cf7a485232ea019f37"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+hash = "b8b0c4365bbb73d7074f7b1b23ea6f65af3342e77243676aae330c226d8b60b6"
+metafile = true
+
+[[files]]
 file = "mods/pal.toml"
 hash = "f3feecbf43e559311326c536110c4e9d7d5d768b4a0ebbc5134bcb68224f9fd2"
 metafile = true
