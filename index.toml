@@ -114,7 +114,7 @@ hash = "2aca3639c4364f05f257bd04571d89e23fb8ae92f95cf50a8670d8fd1ae2b30e"
 
 [[files]]
 file = "config/carrier.json"
-hash = "41c90b84a9c7d44d250fefd942d476ffe2d3369192901c68b5d5665685f5b93d"
+hash = "1a85f356e6eb709303d51d31f276e4c536a127f1297af3c35278f1f42d6e5146"
 
 [[files]]
 file = "config/charm.toml"
@@ -209,10 +209,6 @@ file = "config/horsestatsvanilla.json5"
 hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
 
 [[files]]
-file = "config/identity.json5"
-hash = "4474905da0a7bd71b7275e36fd8cd05b8756c3cc67a5b6fcfe832576984a9c0a"
-
-[[files]]
 file = "config/illuminations.properties"
 hash = "4710a57c7641193e8f2bcaf5b0a0539018a75580f4271032112579f6331fa020"
 
@@ -299,10 +295,6 @@ hash = "e21442832f1b2cb80377724ad80f8323898aca23a45d839c5c84ef4d9f947d27"
 [[files]]
 file = "config/mousewheelie.hjson"
 hash = "47350cf8754bda50b22b5fc57eb9490e78fbff356dbdf51899374dcdbf8e5d20"
-
-[[files]]
-file = "config/mtr.json"
-hash = "397215a833479505983177b59d505ea16bc4a9a1ea241088ca78fe520f0eb14e"
 
 [[files]]
 file = "config/mythicmetals.json5"
@@ -473,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.toml"
-hash = "656ba06064f2787f19e764ce863fab788c654d7d5d602c533e55c326c03d48b4"
+hash = "6cb22f4cd6d5fcd881d5b8c204fd414a0774f47b9103376e7cbeef559bfae288"
 metafile = true
 
 [[files]]
@@ -493,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
+hash = "c673d74ee90576be06ef4e0a3d937ae1006a46f73a2efa6f25d6e7620c564122"
 metafile = true
 
 [[files]]
@@ -537,11 +529,6 @@ hash = "46a2b7cb9be8138b31198bc3184d323bc75af7e3d830792ff1a6b92fcff1b339"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.toml"
-hash = "1741573ccf4e18a57a482c3db38f15576acb10377350276b38c41f1542340a06"
-metafile = true
-
-[[files]]
 file = "mods/building-wands.toml"
 hash = "b1bf60aaa74825dc09b3cd9fdd7f979567ea0cb395ba3447cdc840136095373b"
 metafile = true
@@ -568,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.toml"
-hash = "153eeacc764ff16e4b4ea80f6200151248a90bc5cfbe2dcd70e22fdb4a3ca1f1"
+hash = "095cff1ed46bea2eaad3bfa3b7f691d68ff4716fa7dc431556979ce342b3aac3"
 metafile = true
 
 [[files]]
@@ -638,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/diggus-maximus.toml"
-hash = "36cbc515829eb81e386735a4aa558f05e90efa5a7b2a427770295e3737ae4063"
+hash = "d39cb27c5e1dc07af83629d2991358727b575cfadc57260def7f8657c34741bb"
 metafile = true
 
 [[files]]
@@ -737,11 +724,6 @@ hash = "213fa68f62320bbca611bd060b8330ed6d373b3f6b9e5d4ae98a81c990024997"
 metafile = true
 
 [[files]]
-file = "mods/identity.toml"
-hash = "0f300e1aefbe063d087e6d6004a5b64c34db97e14933254bc7341a3a15e8fa54"
-metafile = true
-
-[[files]]
 file = "mods/illuminations.toml"
 hash = "7691f8c373d711c18ae8414a1b3ec1725122776b1fd3e7efb1c7c7c8c8ed0dd3"
 metafile = true
@@ -799,11 +781,6 @@ metafile = true
 [[files]]
 file = "mods/mcdw.toml"
 hash = "8c6989c338bf0aa3e3f53cfc0cbe07d2f99c48b5eebd0ac1306ab1c18b1e5391"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-transit-railway.toml"
-hash = "1e6b1323ba49f87c2d164024791ac948bca8d9c164c1392b15711dea8bd18368"
 metafile = true
 
 [[files]]
