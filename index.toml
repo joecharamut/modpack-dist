@@ -489,11 +489,6 @@ hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
 metafile = true
 
 [[files]]
-file = "mods/atlantis.toml"
-hash = "7e21c6475e4c8f50ce1cd4fa523f0fca9d3164fc41ac8e1137e8208e818c909c"
-metafile = true
-
-[[files]]
 file = "mods/axolotl-bucket-fix.toml"
 hash = "bf31a3a1106408517837dc119378208dd5fdbd6c301ce91b3a29f579f0d31034"
 metafile = true
