@@ -485,12 +485,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c673d74ee90576be06ef4e0a3d937ae1006a46f73a2efa6f25d6e7620c564122"
+hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
 metafile = true
 
 [[files]]
 file = "mods/atlantis.toml"
-hash = "e88173c2649352184e7a93665265121f8811b921037f38e0943da48f406bf05b"
+hash = "7e21c6475e4c8f50ce1cd4fa523f0fca9d3164fc41ac8e1137e8208e818c909c"
 metafile = true
 
 [[files]]
@@ -551,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/carrier.toml"
 hash = "3cf707c48658551283b6534df565f5bb45b3cb32e486550a16282b9061d179c0"
+metafile = true
+
+[[files]]
+file = "mods/cave-biomes.toml"
+hash = "ca3e78023cf34f1ecc66c149f1906d971fcd7673d99333d6a04721f9900b973a"
 metafile = true
 
 [[files]]
@@ -649,13 +654,28 @@ hash = "00e84bc03af55dd03e881f2cf6487ef0c7a52eabbd50c758d0a03e0f90c56265"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "2e14d066b2e67b3ee7573b364ea50c35c483fd57029079b94369a82f04fc3569"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage-fabric.toml"
 hash = "8fb4ce64b65bca33df5847935c9f459f6ceb0b749fcd4a509cf783c7e8a305fd"
 metafile = true
 
 [[files]]
+file = "mods/expcontainer.toml"
+hash = "ae56ee88c7c092e1f074ab988458fcfc2ae21913d7bee258512fd2ca8c241008"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.toml"
 hash = "3f77162d470921baccd85ba5ff215c94d22b0f52bb91b085d3b7756d6b4fadc1"
+metafile = true
+
+[[files]]
+file = "mods/extra-generators.toml"
+hash = "71d8716c0d6aa412bb6ae85c2d13b773dfeda5c71adbcb845dbcbd19aa476fe6"
 metafile = true
 
 [[files]]
@@ -690,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "b9a9d1713da352033a59473a8c92edb2693a3f8a6e62ee139930def25a2a5bc9"
+hash = "626cf7427b2b831401486a72befc00ccd2af216942c545fd335b5ce9b1e6b9d0"
 metafile = true
 
 [[files]]
@@ -714,6 +734,11 @@ hash = "2ed176d03b8584618e948ef8a3be2927bbd6ce57382d01f1761c54431e11a6de"
 metafile = true
 
 [[files]]
+file = "mods/hopper.toml"
+hash = "c3598f5a97b21b21616509b202a69da31e34d8bc2f5996bdfc54bd5ffaa37afc"
+metafile = true
+
+[[files]]
 file = "mods/horsestatsvanilla.toml"
 hash = "a87188769cdfbf52cabcc2a6d7f0a4f6c9c5281ba6c95c8477bbe0f8bc5adc72"
 metafile = true
@@ -725,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "7691f8c373d711c18ae8414a1b3ec1725122776b1fd3e7efb1c7c7c8c8ed0dd3"
+hash = "29264512e2f26c27c27bb171fda657b2a1756db9186db334cc387da900df36e8"
 metafile = true
 
 [[files]]
@@ -754,8 +779,23 @@ hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
 metafile = true
 
 [[files]]
+file = "mods/lib.toml"
+hash = "282da11d9aafdfb7d002650a0d4e2b4dfcc39f43a9815d323fe3f021003d2b35"
+metafile = true
+
+[[files]]
+file = "mods/lifts.toml"
+hash = "ff5671439f39ef6d915b2a1de83bcd7af729ec1af3d71e9bc85bd51927c2e51f"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.toml"
 hash = "c7007e4da5a4ca1b921e8d51436f55bf4393b589432a88c291d3793ff7509c21"
+metafile = true
+
+[[files]]
+file = "mods/lightest-lamps-fabric.toml"
+hash = "a07e995fcb503d7591915915ddbf4a7d2d9a8c57088b0366c53f19b6cac0d9e1"
 metafile = true
 
 [[files]]
@@ -830,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "f71c07f4f1ab871f1907dabfbd77b06b58910483d744f8bb9052f88fc99ff547"
+hash = "974dbbefcfa1bbb66aa9140568733a8685ae283f5a5a86a3631931ca4bb7a6c1"
 metafile = true
 
 [[files]]
@@ -894,6 +934,11 @@ hash = "c446023ded3e058b9f5c065da82770c0d753d189bb388f3f55d0ab7767b31f6e"
 metafile = true
 
 [[files]]
+file = "mods/quarry-reborn.toml"
+hash = "a52c0c545c310b7c285e1a32dcd2781a121f0482c759ed8d90cc56fb14e4561d"
+metafile = true
+
+[[files]]
 file = "mods/real-infinity-bow-allow-inf-mending.toml"
 hash = "32a069efa333f502d02060cb3cc80e2a521781fcb981ad751d2dc3657eed79b4"
 metafile = true
@@ -926,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/searchlight.toml"
 hash = "aafe8efc728b254e213b497fd534c4308ebd2a5d30b4baa708c4cfa7d53fdca0"
+metafile = true
+
+[[files]]
+file = "mods/secret-rooms-fabric.toml"
+hash = "720c3aa8d11081896aad28a26cbfe70f8f244bd773980a593d99786b0446f285"
 metafile = true
 
 [[files]]
@@ -999,6 +1049,11 @@ hash = "a2a45b7b26ba2cf02fbcdd7e990fdef994c23e1a87c7d622b67f10f0c6edb18d"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.toml"
+hash = "3ef460e68b01f02bfddc1d3b4c5edf6aec9470a3c7ebdf577ad4e26668c3485e"
+metafile = true
+
+[[files]]
 file = "mods/transliterationlib.toml"
 hash = "4405b25d64953f0ad95574dccedfb2c490961a016831badab6c33504a65633fc"
 metafile = true
@@ -1026,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise-fabric.toml"
 hash = "3a72ded791f742c9f39cfcbc7c3b19af4bf171fdf26ff2b7ed8fab8c2b3fa1ea"
+metafile = true
+
+[[files]]
+file = "mods/wireless-networks.toml"
+hash = "12dd4295c22853c875381024ead99758459788e0c9de3dc75bdfa4a25255764c"
 metafile = true
 
 [[files]]
