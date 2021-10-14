@@ -558,6 +558,11 @@ hash = "ca3e78023cf34f1ecc66c149f1906d971fcd7673d99333d6a04721f9900b973a"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.toml"
+hash = "a88ec6d63549b7a1fd0b88537e62e1e0c5d8d239183d75cf2c84f8fba176bbfe"
+metafile = true
+
+[[files]]
 file = "mods/chalk-fabric.toml"
 hash = "8cd867355e7b56561caf133dd486ac4ffa882eb81e4146bbbe0254d778b036f5"
 metafile = true
