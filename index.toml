@@ -197,6 +197,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "e252e0ec8ce9bc7c8b60c2af88ff26aa70dd951128224edaa8d555e3d82f82ae"
 
 [[files]]
+file = "config/flytre_lib.json5"
+hash = "4b8aa749f784bbf4bdfa0d86922e7a004d0420393ef805481eb6c8e9e5b753f0"
+
+[[files]]
 file = "config/grindenchantments.json"
 hash = "ce6e482cc8b8bc59b268c406beb4ffd818a6347bb86496c2c7f69fb213336b31"
 
@@ -551,11 +555,6 @@ metafile = true
 [[files]]
 file = "mods/cave-biomes.toml"
 hash = "ca3e78023cf34f1ecc66c149f1906d971fcd7673d99333d6a04721f9900b973a"
-metafile = true
-
-[[files]]
-file = "mods/cc-restitched.toml"
-hash = "095cff1ed46bea2eaad3bfa3b7f691d68ff4716fa7dc431556979ce342b3aac3"
 metafile = true
 
 [[files]]
