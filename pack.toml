@@ -1,11 +1,11 @@
 name = "Hype Home Modpack"
 author = "Joe"
-version = "0.1.6"
+version = "0.2.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a599712e0ad425ca2cf59af1a7ffc85d8b657b0243f444ec6499b229e529cbbe"
+hash = "91e3cdd55fa168543a2092ed060bcac7fbc50fc40fefb3ec9ff0bc69b732c720"
 
 [versions]
 fabric = "0.11.7"

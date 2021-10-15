@@ -121,10 +121,6 @@ file = "config/bewitchment.json"
 hash = "2aca3639c4364f05f257bd04571d89e23fb8ae92f95cf50a8670d8fd1ae2b30e"
 
 [[files]]
-file = "config/canvas_pipeline_options.json5"
-hash = "1e9495667448de3c44bd6c8956ac6b36d11926cec0e582504c702c813c5b3ce0"
-
-[[files]]
 file = "config/carrier.json"
 hash = "1a85f356e6eb709303d51d31f276e4c536a127f1297af3c35278f1f42d6e5146"
 
@@ -330,7 +326,7 @@ hash = "1bf14b26446c80990ba9f8f4aa09e1bf00d5541ff0ebeb82d5269393b64bb1a0"
 
 [[files]]
 file = "config/okzoomer.json5"
-hash = "4920657ed4da6f4de675fb3ea393bf360a02d3b1e15a947449964192f105b3cb"
+hash = "c3d265d2b8f8a3c9a65e22b20ba972972a661e0a801898323c3cbe5a8ba09fb8"
 
 [[files]]
 file = "config/patchouli.json5"
@@ -1027,6 +1023,11 @@ metafile = true
 [[files]]
 file = "mods/somnus.toml"
 hash = "ccb41da5a8460dbe7c7d9cbf358836de6b11534b6f4f70a8ceda74792cd76e98"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "011caeea0d6fdbc8e3e6a0d665e3ed9e5f0fbd480219cdc8932f95e83919451a"
 metafile = true
 
 [[files]]

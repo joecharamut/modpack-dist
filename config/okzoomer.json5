@@ -13,7 +13,7 @@
 		   "SMOOTH" replicates Vanilla's dynamic FOV.
 		   "LINEAR" removes the smoothiness.
 		*/
-		"zoom_transition": "SMOOTH",
+		"zoom_transition": "OFF",
 		/* The behavior of the zoom key.
 		   "HOLD" needs the zoom key to be hold.
 		   "TOGGLE" has the zoom key toggle the zoom.
