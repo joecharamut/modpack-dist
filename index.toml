@@ -49,6 +49,14 @@ file = "config/bclib/recipes.json"
 hash = "9eba770309030582368a62bbfd4a158456fb4cf75434d6eb7e0175e9bc0fc977"
 
 [[files]]
+file = "config/bedrockify.json"
+hash = "1f3567d5dea0b35a34da82cb74e64257759e6acea05057bc862820db03540276"
+
+[[files]]
+file = "config/bedrockifyMixins.json"
+hash = "19ec8f5999285a05dba8b8ff3d3ff7380d876413f553cc38c4a26cd268d12b49"
+
+[[files]]
 file = "config/betterend/biomes.json"
 hash = "ec3803adf0796784fdb52edf31cfe38654e5bfb9099b68ace2e26800404a5a3e"
 
@@ -111,6 +119,10 @@ hash = "3ed7709543eccf0e0af6ca947bebf9c511ac171e63486e4f0daa369165b14dc9"
 [[files]]
 file = "config/bewitchment.json"
 hash = "2aca3639c4364f05f257bd04571d89e23fb8ae92f95cf50a8670d8fd1ae2b30e"
+
+[[files]]
+file = "config/canvas_pipeline_options.json5"
+hash = "1e9495667448de3c44bd6c8956ac6b36d11926cec0e582504c702c813c5b3ce0"
 
 [[files]]
 file = "config/carrier.json"
@@ -309,10 +321,6 @@ file = "config/naturescompass.json"
 hash = "5a72f3b6765a0f15d33071a38cb246a7c29ce0af59552ef91ea3b20393f65a68"
 
 [[files]]
-file = "config/notenoughanimations.json"
-hash = "c773bb742d73e9e73142f293844f9b857b5fcddc3c8efe42879b0212bed9f320"
-
-[[files]]
 file = "config/notenoughcrashes.json"
 hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
@@ -453,6 +461,10 @@ file = "config/waystones/config.json"
 hash = "65d45f78cfdee696c04145a788364b5d6517808efa1f1a6d3a3e9d8d3fc042b2"
 
 [[files]]
+file = "mods/Wildlife_Female_Gender_Mod_2.8.jar"
+hash = "c9ad6c63293a9a8d7cd64b60b63bfd6867a2df8b426eec011474ae891f44e720"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "0f8f135e5ded3fa1c6016107e5cd81f7e9e796d8352aececdca45ee16970262f"
 metafile = true
@@ -508,6 +520,11 @@ hash = "322f3ce72f60fab7b41274bd5608b85d3918a1362983f67a19a8a7295ce64751"
 metafile = true
 
 [[files]]
+file = "mods/bedrockify.toml"
+hash = "8f38efbff5330bc296f3aa8e434e92039c0353e3fb3afce4a02ee1d3c65de21a"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads-fabric.toml"
 hash = "a05397f3146f87e302d7c36b6982393c4ac688453b30ccf9d24acb6393ef24d6"
 metafile = true
@@ -535,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/candlestick.toml"
 hash = "456384e2c95d708a60d9af2cd0c6c483d3c749ec515299dbe18737fdc5a2c70d"
+metafile = true
+
+[[files]]
+file = "mods/canvas-renderer.toml"
+hash = "3a6640a5c57b06a20ec285bcb64f62afd0ebeb686f6c6bd0c1770e0253d775d5"
 metafile = true
 
 [[files]]
@@ -630,6 +652,11 @@ metafile = true
 [[files]]
 file = "mods/diggus-maximus.toml"
 hash = "d39cb27c5e1dc07af83629d2991358727b575cfadc57260def7f8657c34741bb"
+metafile = true
+
+[[files]]
+file = "mods/discarnate.toml"
+hash = "09d49512dff608ded9803ed1d845406bbf3bcfd55bb20d9e362b8302103ff444"
 metafile = true
 
 [[files]]
@@ -843,6 +870,11 @@ hash = "c692297fc40dc473f9c38143ef953be318868a1dff85a1f954e3d2fa833d4a74"
 metafile = true
 
 [[files]]
+file = "mods/motschens-puddles.toml"
+hash = "8c87295a2d78a49246ba1dff4ffa3b4f76631b75295d332067c5b648dec61d21"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.toml"
 hash = "da847c31e21dec7c9f58e4e323ed1b719d9a06f811fd25a43e668ba4a49451a5"
 metafile = true
@@ -865,11 +897,6 @@ metafile = true
 [[files]]
 file = "mods/no-potion-offset.toml"
 hash = "3864b5de7c1ea8afaccb95ee351a27e7f5b2dba30b47f385b07b4ff72c1cded4"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.toml"
-hash = "974dbbefcfa1bbb66aa9140568733a8685ae283f5a5a86a3631931ca4bb7a6c1"
 metafile = true
 
 [[files]]
@@ -1050,11 +1077,6 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.toml"
 hash = "3ef460e68b01f02bfddc1d3b4c5edf6aec9470a3c7ebdf577ad4e26668c3485e"
-metafile = true
-
-[[files]]
-file = "mods/transliterationlib.toml"
-hash = "4405b25d64953f0ad95574dccedfb2c490961a016831badab6c33504a65633fc"
 metafile = true
 
 [[files]]

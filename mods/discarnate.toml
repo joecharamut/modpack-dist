@@ -1,0 +1,14 @@
+name = "Discarnate"
+filename = "Discarnate-2.0.0+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3491/162/Discarnate-2.0.0+1.17.1.jar"
+hash-format = "murmur2"
+hash = "3672990943"
+
+[update]
+[update.curseforge]
+file-id = 3491162
+project-id = 304796
+release-channel = "beta"
