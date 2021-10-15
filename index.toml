@@ -555,11 +555,6 @@ hash = "456384e2c95d708a60d9af2cd0c6c483d3c749ec515299dbe18737fdc5a2c70d"
 metafile = true
 
 [[files]]
-file = "mods/canvas-renderer.toml"
-hash = "3a6640a5c57b06a20ec285bcb64f62afd0ebeb686f6c6bd0c1770e0253d775d5"
-metafile = true
-
-[[files]]
 file = "mods/caracal-mod.toml"
 hash = "a59e28f62d1445260f10054deea54ff6aa6fc770363854fce1a7a6df0ba80a3e"
 metafile = true
