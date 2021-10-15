@@ -173,10 +173,6 @@ file = "config/dragonloot.json5"
 hash = "56fc3644d40638a9bd9e4a8d74e934aba4d93d6c191ec97df582c75c12b80dec"
 
 [[files]]
-file = "config/dungeons_arise.json5"
-hash = "c39a219669f2abd790174b70c7574ddd4a3870cfb76218a61283bd136467a78b"
-
-[[files]]
 file = "config/enchant_giver/config.json"
 hash = "7682c42f751b0a1c7ea4b9b939eb1ecbdcd637fd3b3f308ff83be4fcb3f9b6ca"
 
@@ -1093,11 +1089,6 @@ metafile = true
 [[files]]
 file = "mods/valleycraft.toml"
 hash = "cac393e7bd04798ff9b79f3e498146df0c98e751ee354e648cde3de555c6d654"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise-fabric.toml"
-hash = "3a72ded791f742c9f39cfcbc7c3b19af4bf171fdf26ff2b7ed8fab8c2b3fa1ea"
 metafile = true
 
 [[files]]
